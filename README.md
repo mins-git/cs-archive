@@ -7,13 +7,16 @@
 
 ## 🗂️ Index
 
-현재 진행 중인 학습과 앞으로 확장해 나갈 지식의 목차입니다. 
-각 링크를 클릭하면 해당 디렉토리의 상세 내용으로 이동합니다.
+현재 진행 중인 학습과 앞으로 확장해 나갈 지식의 목차입니다.
 
-- [x] **[Operating System](./Operating-System)** (진행 중)
-- [ ] **Network** 
-- [ ] **Database**
-- [ ] **Data Structure & Algorithm**
+- [Operating System](./Operating-System) ✅ 진행 중
+- [Network](./Network)
+- [Database](./Database)
+- [Data Structure & Algorithm](./Data-Structure-Algorithm)
+- [Java](./Java)
+- [Spring](./Spring)
+- [TIL](./TIL) 🌱 프로젝트 진행 중 학습 기록
+
 
 <br>
 
@@ -60,6 +63,19 @@
 
 <br>
 
+---
+
+### 🌱 TIL (Today I Learned)
+프로젝트 개발 및 학습 과정에서 배운 것을 날마다 기록합니다.
+
+| 날짜 | 내용 |
+|------|------|
+| 2026-06-22 | 프로젝트 세팅, Spring Boot 의존성 구성 |
+
+<br>
+
+---
+
 ## ✍️ Record Rule
 
 문서를 작성할 때 유지하는 개인적인 원칙입니다.
@@ -69,4 +85,4 @@
 3. **Reference:** 외부 자료나 공식 문서를 참고한 경우 반드시 출처를 하단에 남긴다.
 
 ---
-*Last Updated: 2026. 05. 22*
+*Last Updated: 2026. 06. 22*
